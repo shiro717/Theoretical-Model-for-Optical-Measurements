@@ -1,1 +1,1 @@
-The derivation for 4D quantum Hall coefficient describes our theoretical model in detail. Others are scripts for simulations under certain restrictions.
+The derivation for 4D quantum Hall coefficient describes our theoretical model in details. Others are scripts for simulations under certain restrictions (such as no longitudinal conductivity or no incident polarization).
